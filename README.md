@@ -1,7 +1,9 @@
 # Hey there! 👋 I'm Ivar Michael Tangeraas.
 I'm a passionate 3rd year IT student based in the southern parts of Norway. Armed with a bachelor's degree in interactive media & design – game development, I've embarked on a journey into the world of IT. My enthusiasm for technology, combined with a knack for creative problem-solving and a natural inclination for leadership, makes me ever-ready to tackle new challenges and soak up fresh knowledge.
 
-🌱 Currently, I'm honing my skills at the Norwegian Mapping Authority (Kartverket) for the fall semester of 2023, following an enriching summer internship at Egde Consulting in 2023.
+🌱 Currently, working on my final bachelor's degree project at Egde Consulting.
+
+🌳 Previously, worked as an intern at the Norwegian Mapping Authority (Kartverket) during the fall semester of 2023, following an enriching summer internship at Egde Consulting in 2023.
 
 💻 Current Tech Stack & Interests:
 - **Frontend:** React, Next.js, Typescript, MVC, Tailwind, CSS, HTML, and more.

@@ -1,19 +1,19 @@
-# Hey there! 👋 I'm Ivar Michael Tangeraas.
-I'm a passionate IT consultant based in the southern parts of Norway.
+# Hey there! 👋 I'm Michael Tangeraas.
+I'm a passionate technologist based in the southern parts of Norway.
 
-🌱 Currently, exploring exciting opportunities with generative AI at Egde.
+🌱 Currently, coding, innovating, and all the good stuff at Kartverket
 
-🌳 Previously, conducted my bachelor's degree at the University of Agder.
+🌳 Previously, teamlead and developer at Egde.
 
 💻 Current Tech Stack & Interests:
 - **Frontend:** React, Next.js, Typescript, MVC, Tailwind, CSS, HTML, and more.
 - **Backend:** C#, Python, Java, PHP, and more.
 - **Databases:** NoSQL, Entity Framework, MySQL, MariaDB, and more.
-- **Other skills/interests:** AI, Rest API, Service Design, Game Design, Algorithms, Datastructures, and more.
+- **Other skills/interests:** AI, gen-AI, MCP, RAG, Rest API, Service Design, Game Design, Algorithms, Datastructures, and more.
 
 Feel free to reach out for collaboration or just to geek out about tech!
 
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/ivar-michael-tangeraas/) | [Website](https://www.tangeraas.dev/)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/ivar-michael-tangeraas/)
 <!--
 **imttv/imttv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

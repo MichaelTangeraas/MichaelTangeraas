@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Michael Tangeraas.
+# Hey there! 👋 I'm Michael!
 I'm a passionate technologist based in the southern parts of Norway.
 
 🌱 Currently, coding, innovating, and all the good stuff at Kartverket

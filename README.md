@@ -1,9 +1,9 @@
 # Hey there! 👋 I'm Michael!
 I'm a passionate technologist based in the southern parts of Norway.
 
-🌱 Currently, coding, innovating, and all the good stuff at Kartverket
+🌱 Currently, coding, innovating, and all the good stuff at Bouvet
 
-🌳 Previously, teamlead and developer at Egde.
+🌳 Previously, teamlead and developer at Egde and Kartverket.
 
 💻 Current Tech Stack & Interests:
 - **Frontend:** React, Next.js, Typescript, MVC, Tailwind, CSS, HTML, and more.

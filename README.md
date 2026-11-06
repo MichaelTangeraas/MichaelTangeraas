@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Michael!
 I'm a passionate technologist based in the southern parts of Norway.
 
-🌱 Currently, help clients with AI needs, coding, innovating, and all the good stuff at Bouvet
+🌱 Currently, helping clients with AI needs, coding, innovating, and all the good stuff at Bouvet and lecturing at UiA.
 
 🌳 Previously, teamlead and developer at Egde and Kartverket.
 
